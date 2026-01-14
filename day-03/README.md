@@ -9,7 +9,7 @@ The batteries are arranged into banks; each line of digits in your input corresp
 to a single bank of batteries. Within each bank, you need to turn batteries;
 the joltage that the bank produces is equal to the number formed by the digits on the batteries youve turned on. 
 
-* Part 1 : Find the sum of largest joltage output possible from a single bank of batteries by turning on exactly two of them.\
+* Part 1 : Find the sum of largest joltage output possible from a single bank of batteries by turning on exactly two of them.
 * Part 2 : To overcome static friction , more power is needed, 
 so find the sum of the largest joltage outputs from all banks of batteries by turning on 12 of them.
 
