@@ -1,4 +1,4 @@
-# Day 6: Laboratories
+# Day 7: Laboratories
 > 🎯 **Goal:** : Analyse Tachyon manifold diagram to rectify the malfunctioning. 
 ---
 ## 📖 Problem Summary
