@@ -11,9 +11,19 @@ This repository documents my 12-day sprint through [Advent of Code](https://adve
 
 ## 🗓️ Challenge Structure
 
-- **Duration:** 12 days (Jan 12 → Jan 24)
+- **Duration:** 12 days (Jan 12 → Jan 23 2026)
 - **Problems:** Advent of Code puzzles
 - **Pace:** At least one problem per day
+
+## Learnings & Reflections
+
+- **Consistency wins**: Sticking with it daily made the puzzles surprisingly fun.
+
+- **AI is helpful**: Using it for hints and explanations was eye-opening, not a shortcut.
+
+- **Small wins matter**: 22 stars out of 23, progress over perfection!
+
+- **Enjoy the journey**: Experimenting, learning, and sharing publicly made it more rewarding.
 
 ## Final Note
 
